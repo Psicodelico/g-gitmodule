@@ -4,3 +4,6 @@
 [submodule "b"]
 	path = b
 	url = https://github.com/Psicodelico/g-sub-b.git
+[submodule "g-sub-b"]
+	path = g-sub-b
+	url = https://github.com/Psicodelico/g-sub-b.git
